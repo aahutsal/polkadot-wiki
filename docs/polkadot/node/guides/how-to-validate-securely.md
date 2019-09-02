@@ -1,4 +1,4 @@
-# How to validate
+# How to validatex
 
 !!! info
     _This tutorial works with the current Alexander testnet and has been updated for PoC-4._
